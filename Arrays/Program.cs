@@ -20,6 +20,7 @@ namespace CSharpFundamentals
 
             var names = new string[3] {"Tae", "Tegan", "CT"};
             Console.WriteLine(names);
+            //use curly braces to define array elements within same line
 
 
         }
